@@ -20,4 +20,4 @@ Implementation of the classic game Connect 4 using Pygame from Pyhon , MinMax an
 ## Usage
     python Connect_4.py
 
-Note : Player one color is red and Player two color is blue.
+Note : Player one color is red and player two color is blue.
